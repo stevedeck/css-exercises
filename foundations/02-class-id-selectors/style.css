@@ -1,0 +1,21 @@
+.pclass {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#divid {
+    font-size: 24px;
+
+}
+
+.plclasscooler {
+    color: #0000ff;
+    font-size: 36px;
+
+}
+
+#anotherid {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+
+}
